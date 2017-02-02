@@ -1,0 +1,44 @@
+【PHPについて】
+1.サイトの場所
+・ウェブサイト―http://php.net
+
+2.概要
+・概要
+  PHP is a popular general-purpose scripting language that is especially suited to web development.
+  Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.　( http://php.netより)
+
+  PHPは、Web開発に特に適した一般的な汎用スクリプト言語です。
+  速く、柔軟で実用的なPHPは、あなたのブログから世界で最も人気のあるWebサイトに至るまですべての機能を提供します。（上記英語文章をgoogle翻訳で翻訳）
+
+・リリース日―1995/6/8
+・最新バージョン―PHP7.1.1（2017/2/1時点）
+・言語特徴
+ ・Webアプリケーションに特化している（サーバーサイド）。
+ ・高級言語。
+ ・オープンソースである。
+ ・コンパイル形式はインタプリタ型である。
+ ・命令型、オブジェクト指向に対応している。
+ ・強い動的型付け（Javaとは対照的）
+ ・テキスト処理が得意である。
+
+3.沿革
+・設計者―Rasmus Lerdorf（ラスマス・ラードフ）
+・開発者―The PHP Group
+・沿革
+  Rasmus Lerdorfが最初に生み出したPHPはCGI用のツール群で、C言語により書かれていた。多くの要望により、データベースなども扱えるように機能追加し、フレームワークのような存在になる。1995年6月にRasmus Lerdorf氏はソースをFIという名称で公開した。そして、1995年10月に大幅な変更を加え、名称を再びPHPに戻した。1996年4月に再び大幅な変更を行い、PHP/FIという名称を付けた。この第2世代実装から本格的なプログラミング言語になったという考え方がある。2004年7月13日リリースのPHP5.0.0では疑似的なオブジェクト指向が強化された。2009年6月30日リリースのPHP5.3.0では、名前空間、遅延静的束縛、goto、クロージャ、ガベージコレクションの機能が追加された。2016年12月1日にリリースされたPHP7.0では前バージョンPHP5.6と比べて25%から70%の性能改善が図られており、言語仕様も大きく拡張された。
+
+4.ライセンス
+・ライセンス―PHP License（http://www.php.net/license/）
+・日本語訳―（https://ja.osdn.net/projects/opensource/wiki/licenses%2FPHP_License）
+・PHPライセンス要約
+  バージョン3.0
+  以下の条件が満たされている限り、変更するか否かを問わず、ソース・コード形式およびバイナリ形式での再頒布および使用を許可します。
+　1.ソースコードを再配布する場合は、上記の著作権表示、本条件項目、および下記免責条項をソースコード内に記載しなければならない。
+　2.バイナリ形式においても同様である。
+　3.事前の許諾なしに、本ソフトウェアから派生する製品を是認または促進する目的で「PHP」と呼ぶことや、製品名に「PHP」という単語を使うことはできない。
+　　4.いかなる形式で再配布する場合も、次の文言を表示しなければならない。
+　　　"This product includes PHP, freely available from <http://www.php.net/>".
+
+5.ソースコード
+・ダウンロートURL―http://php.net/downloads.php
+
